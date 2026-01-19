@@ -1,16 +1,15 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WonSik%20&fontSize=90)
+<h1> Hi~ I'm Wonsik-16 :) </h1>
+<p> I’m interested in Make Game with Unity, Android App With Xamarin </p>
+<p> I’m currently learning React JS :) </p>
 
-<!--
-**Wonsik-16/Wonsik-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div class="separator" style="clear: both;">
+<a href = "https://docs.microsoft.com/ko-kr/dotnet/csharp/">
+    <img src="https://img.shields.io/badge/.net-c%23-blue?style=flat-square&logo=c%23-c%23&logoColor=green"/>
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href ="https://unity.com/kr">
+    <img src="https://img.shields.io/badge/Unity-Unity-orange?style=flat-square&logo=Unity-Unity-&logoColor=White"/>
+</a>
+  
+</div>
