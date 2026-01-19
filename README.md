@@ -14,6 +14,6 @@
 
 <a href ="https://ko.legacy.reactjs.org/">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-</a>a>
+</a>
   
 </div>
