@@ -5,9 +5,8 @@
 <p> I’m currently learning Node.js :) </p>
 
 <div class="separator" style="clear: both;">
-<a href="https://www.instagram.com/weosigi/">
-    <img src="http://img.shields.io/badge/Instagram-6?style=flat&logo=Instagram&link=https://www.instagram.com/weosigi/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<a href="https://ko.legacy.reactjs.org/">
+    <img src="https://img.shields.io/badge/.net-c%23-blue?style=flat-square&logo=c%23-c%23&logoColor=green"/>
 </a>
 
 <a href = "https://docs.microsoft.com/ko-kr/dotnet/csharp/">
