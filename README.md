@@ -5,16 +5,17 @@
 <p> I’m currently learning Node.js :) </p>
 
 <div class="separator" style="clear: both;">
-<a href="https://ko.legacy.reactjs.org/">
-    <img src="https://img.shields.io/badge/.net-c%23-blue?style=flat-square&logo=c%23-c%23&logoColor=green"/>
-</a>
-
+    
 <a href = "https://docs.microsoft.com/ko-kr/dotnet/csharp/">
     <img src="https://img.shields.io/badge/.net-c%23-blue?style=flat-square&logo=c%23-c%23&logoColor=green"/>
 </a>
 
 <a href ="https://unity.com/kr">
     <img src="https://img.shields.io/badge/Unity-Unity-orange?style=flat-square&logo=Unity-Unity-&logoColor=White"/>
+</a>
+
+<a href="https://ko.legacy.reactjs.org/">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 </a>
   
 </div>
